@@ -106,7 +106,7 @@ header .active {
    margin: 10px 0 10px;
    font-size: 18px; /* Increase font size */
     line-height: 1.6; /* Improve readability */
-    font-weight: 400; /* Make it slightly bolder */
+    font-weight: 600; /* Make it slightly bolder */
     color: #fff; /* Ensure white text for contrast */
     text-shadow: 50px 50px 50px rgba(0, 0, 0, 0.3); /* Add soft shadow */
     max-width: 80%;
