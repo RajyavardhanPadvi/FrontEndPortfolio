@@ -94,8 +94,13 @@ header .active {
 }  
 
 .home-detail h2{
-    font-size:32px; 
+    font-size:32px;
+    text-shadow: -1px -1px 0 #000,  
+                 1px -1px 0 #000,  
+                -1px  1px 0 #000,  
+                 1px  1px 0 #000; /* Black outline */
 }
+
 
 .home-detail p{
    margin: 10px 0 10px;
